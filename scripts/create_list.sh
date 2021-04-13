@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Trace
+set -x
+
 # Destination file and it's temp
 DEST=firebog_list.txt
 DEST_TMP="${DEST}.tmp"
