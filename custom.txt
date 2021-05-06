@@ -1,7 +1,7 @@
 # Custom list for blocking
 
 # Friv.com (Gaming)
-0.0.0.0 ww.friv.com
+0.0.0.0 www.friv.com
 
 # Dos Games
 0.0.0.0 www.playdosgames.com
