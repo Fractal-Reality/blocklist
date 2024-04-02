@@ -26,6 +26,6 @@ jobs:
       - name: Generate the block list of firebog tick list
         run: scripts/create_list.sh
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Auto-commit changed blocklist files
